@@ -1,0 +1,22 @@
+{
+  "name": "FileSystemOrganizer__NodeJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zishanjawed/FileSystemOrganizer__NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "zishan": "main.js"
+  },
+  "bugs": {
+    "url": "https://github.com/zishanjawed/FileSystemOrganizer__NodeJS/issues"
+  }
+}
